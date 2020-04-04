@@ -23,6 +23,6 @@ So far there aren't any more screen layouts or icons beyond the ones featured in
 
 ### Credits
 
-UI Design - [Jaames](https://github.com/jaames) / [@rakujira](https://twitter.com/rakujira)
-Artwork - [Calcium](https://github.com/calciumchan) / [@calcium_chan](https://twitter.com/calcium_chan)
-Japanese Translation - Liss / [@LissBev33](https://twitter.com/LissBev33)
+* UI Design - [Jaames](https://github.com/jaames) / [@rakujira](https://twitter.com/rakujira)
+* Artwork - [Calcium](https://github.com/calciumchan) / [@calcium_chan](https://twitter.com/calcium_chan)
+* Japanese Translation - Liss / [@LissBev33](https://twitter.com/LissBev33)
