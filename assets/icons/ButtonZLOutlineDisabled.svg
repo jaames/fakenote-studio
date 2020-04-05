@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="33px" viewBox="0 0 33 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>assets/icons/ButtonZLOutlineDisabled</title>
+    <desc>Created with Sketch.</desc>
+    <g id="assets/icons/ButtonZLOutlineDisabled" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IconButton/ZL" transform="translate(1.000000, 1.000000)">
+            <g id="button-zl" transform="translate(3.000000, 3.000000)">
+                <path d="M19.2,-1.5 L9.6,-1.5 C6.53481964,-1.5 3.75981964,-0.257590181 1.75111473,1.75111473 C-0.257590181,3.75981964 -1.5,6.53481964 -1.5,9.6 L-1.5,22.08 C-1.5,22.7593102 -1.22465512,23.3743102 -0.779482682,23.8194827 C-0.334310242,24.2646551 0.280689757,24.54 0.96,24.54 L24,24.54 C24.6793102,24.54 25.2943102,24.2646551 25.7394827,23.8194827 C26.1846551,23.3743102 26.46,22.7593102 26.46,22.08 L26.46,5.76 C26.46,3.75520636 25.6473968,1.94020636 24.3335952,0.626404768 C23.0197936,-0.687396821 21.2047936,-1.5 19.2,-1.5 Z" id="bg" stroke="#FFFFFF" stroke-width="3" fill="#A8B3BB" fill-rule="nonzero"></path>
+                <path d="M16.32,7.68 L16.32,15.36 L21.12,15.36 L21.12,17.28 L14.4,17.28 L14.4,7.68 L16.32,7.68 Z M12.48,5.76 L12.48,8.2566 L6.79728,15.36 L12.48,15.36 L12.48,17.28 L4.8,17.28 L4.8,14.7834 L10.4826001,7.68 L4.8,7.68 L4.8,5.76 L12.48,5.76 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

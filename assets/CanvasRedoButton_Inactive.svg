@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="64px" viewBox="0 0 80 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>assets/CanvasRedoButton_Inactive</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M17.6271485,0 L63,0 C64.6568542,-3.04359188e-16 66,1.34314575 66,3 L66,47 C66,48.6568542 64.6568542,50 63,50 L17.6561677,50 C16.6253778,50 15.6667723,49.4707962 15.1175239,48.5985267 L1.02325216,26.2152058 C0.399507573,25.2246278 0.408908817,23.961718 1.04733141,22.9805357 L15.1125839,1.36385666 C15.6661068,0.513155601 16.61222,-2.57649875e-16 17.6271485,0 Z" id="path-1"></path>
+        <filter x="-11.3%" y="-16.0%" width="123.4%" height="142.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.313532463   0 0 0 0 0.321764974   0 0 0 0 0.366055254  0 0 0 0.348967439 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="6" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter2" in2="SourceAlpha" operator="out" result="shadowBlurOuter2"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.189199521   0 0 0 0 0.197019944   0 0 0 0 0.243942482  0 0 0 0.263576267 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Mockups" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="UndoControls" transform="translate(-80.000000, 0.000000)">
+            <g id="Group-4-Copy" transform="translate(119.000000, 32.000000) scale(-1, 1) translate(-119.000000, -32.000000) translate(86.000000, 7.000000)">
+                <g id="Group-11-Copy-2">
+                    <g id="Group">
+                        <g id="Rectangle-Copy">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <path stroke="#E2E6F2" stroke-width="4" d="M63,2 L17.6271485,2 C17.288839,2 16.9734679,2.17105187 16.7889603,2.45461889 L2.72370778,24.071298 C2.61730402,24.2348284 2.5633187,24.421836 2.56192368,24.6092352 C2.56052866,24.7966343 2.61172394,24.984425 2.71568137,25.1495213 L16.8099531,47.5328422 C16.9930359,47.8235987 17.3125711,48 17.6561677,48 L63,48 C63.2761424,48 63.5261424,47.8880712 63.7071068,47.7071068 C63.8880712,47.5261424 64,47.2761424 64,47 L64,3 C64,2.72385763 63.8880712,2.47385763 63.7071068,2.29289322 C63.5261424,2.11192881 63.2761424,2 63,2 Z" stroke-linejoin="square" fill="#FFFFFF" fill-rule="evenodd"></path>
+                        </g>
+                    </g>
+                </g>
+                <g id="Icon/Back" transform="translate(24.000000, 11.000000)" fill="#E2E6F2">
+                    <path d="M18.3581993,0 C19.0643326,-1.29714576e-16 19.7412676,0.281803407 20.2388047,0.782883181 L26.0056832,6.59082336 C26.7800544,7.37070835 26.7800544,8.62931391 26.0056832,9.4091989 L20.2388047,15.2171391 C19.7412676,15.7182189 19.0643326,16.0000223 18.3581993,16.0000223 C17.7488872,16.0000223 17.2549421,15.5060772 17.2549421,14.8967651 L17.254,11 L9.13496937,11.0000129 L8.95605309,11.0051021 C7.35762909,11.0963484 6.08997958,12.4023277 6.08997958,14.0000129 L6.08997958,14.0000129 L6.08997958,18.0000129 L6.09514864,18.176278 C6.18776346,19.7510843 7.51332871,21.0000129 9.13496937,21.0000129 L9.13496937,21.0000129 L19.8224278,21.0000129 C20.9269973,21.0000129 21.8224278,21.8954434 21.8224278,23.0000129 L21.8224278,23.0000129 L21.8224278,25 C21.8224278,26.1045695 20.9269973,27 19.8224278,27 L19.8224278,27 L9.13496937,27 L8.86562758,26.9961629 C3.94510265,26.8557915 1.98951966e-13,22.8818051 1.98951966e-13,18.0000129 L1.98951966e-13,18.0000129 L1.98951966e-13,14.0000129 L0.00389464918,13.7346455 C0.146371215,8.88682428 4.17995624,5.00001289 9.13496937,5.00001289 L9.13496937,5.00001289 L17.254,5 L17.2549421,1.10325717 C17.2549421,0.49394506 17.7488872,1.11928819e-16 18.3581993,0 Z" id="Combined-Shape-Copy-3" transform="translate(13.293231, 13.500000) scale(-1, 1) translate(-13.293231, -13.500000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

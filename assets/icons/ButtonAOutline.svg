@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="33px" viewBox="0 0 33 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>assets/icons/ButtonAOutline</title>
+    <desc>Created with Sketch.</desc>
+    <g id="assets/icons/ButtonAOutline" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IconButton/A">
+            <g id="button-a" transform="translate(3.000000, 3.000000)">
+                <circle id="bg" stroke="#FFFFFF" stroke-width="3" fill="#000000" cx="13.44" cy="13.44" r="14.94"></circle>
+                <path d="M14.81592,6.72 L20.50192,20.159 L17.89692,20.159 L16.67892,17.28 L10.20092,17.28 L8.98292,20.159 L6.37792,20.159 L12.06292,6.72 L14.81592,6.72 Z M13.44,9.62508 L11.01292,15.36 L15.86592,15.36 L13.44,9.62508 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

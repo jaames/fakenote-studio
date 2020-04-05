@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="33px" viewBox="0 0 33 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>assets/icons/ButtonZRText</title>
+    <desc>Created with Sketch.</desc>
+    <g id="assets/icons/ButtonZRText" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IconButton/ZR" transform="translate(1.000000, 1.000000)">
+            <g id="button-zr" transform="translate(3.000000, 3.000000)">
+                <path d="M9.6,0 L19.2,0 C22.3811602,0 24.96,2.57883984 24.96,5.76 L24.96,22.08 C24.96,22.6101934 24.5301934,23.04 24,23.04 L0.96,23.04 C0.42980664,23.04 0,22.6101934 0,22.08 L0,9.6 C0,4.2980664 4.2980664,0 9.6,0 Z" id="bg" fill="#FF751E" fill-rule="nonzero" transform="translate(12.480000, 11.520000) scale(-1, 1) translate(-12.480000, -11.520000) "></path>
+                <path d="M18.24,7.68 C19.8146743,7.68 21.0941815,8.94376046 21.1196142,10.5123739 L21.12,10.56 C21.12,11.6524593 20.5117336,12.6028504 19.6153999,13.090974 L21.47712,17.28 L19.37604,17.28 L17.6694,13.44 L16.32,13.44 L16.32,17.28 L14.4,17.28 L14.4,7.68 L18.24,7.68 Z M12.48,5.76 L12.48,8.2566 L6.79728,15.36 L12.48,15.36 L12.48,17.28 L4.8,17.28 L4.8,14.7834 L10.4826001,7.68 L4.8,7.68 L4.8,5.76 L12.48,5.76 Z M18,9.6 L16.32,9.6 L16.32,11.52 L18,11.52 C18.5201897,11.52 18.9437451,11.1062595 18.9595432,10.5899015 L18.96,10.56 L18.9595432,10.5300985 C18.944049,10.0236705 18.5363295,9.61595105 18.0299015,9.60045682 L18,9.6 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

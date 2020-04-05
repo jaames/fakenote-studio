@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>assets/BackButton_Gallery</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="64" height="64" rx="12"></rect>
+        <filter x="-12.5%" y="-12.5%" width="125.0%" height="132.8%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.313532463   0 0 0 0 0.321764974   0 0 0 0 0.366055254  0 0 0 0.348967439 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="6" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter2" in2="SourceAlpha" operator="out" result="shadowBlurOuter2"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.189199521   0 0 0 0 0.197019944   0 0 0 0 0.243942482  0 0 0 0.263576267 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Mockups" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="GalleryBackButton">
+            <g transform="translate(8.000000, 8.000000)" id="BackButton">
+                <g>
+                    <g id="button">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <rect stroke="#FFFFFF" stroke-width="4" stroke-linejoin="square" fill="#A9EB81" fill-rule="evenodd" x="2" y="2" width="60" height="60" rx="12"></rect>
+                    </g>
+                    <path d="M36.3581993,18 C37.0643326,18 37.7412676,18.2818034 38.2388047,18.7828832 L44.0056832,24.5908234 C44.7800544,25.3707083 44.7800544,26.6293139 44.0056832,27.4091989 L38.2388047,33.2171391 C37.7412676,33.7182189 37.0643326,34.0000223 36.3581993,34.0000223 C35.7488872,34.0000223 35.2549421,33.5060772 35.2549421,32.8967651 L35.254,29 L27.1349694,29.0000129 L26.9560531,29.0051021 C25.3576291,29.0963484 24.0899796,30.4023277 24.0899796,32.0000129 L24.0899796,32.0000129 L24.0899796,36.0000129 L24.0951486,36.176278 C24.1877635,37.7510843 25.5133287,39.0000129 27.1349694,39.0000129 L27.1349694,39.0000129 L37.8224278,39.0000129 C38.9269973,39.0000129 39.8224278,39.8954434 39.8224278,41.0000129 L39.8224278,41.0000129 L39.8224278,43 C39.8224278,44.1045695 38.9269973,45 37.8224278,45 L37.8224278,45 L27.1349694,45 L26.8656276,44.9961629 C21.9451027,44.8557915 18,40.8818051 18,36.0000129 L18,36.0000129 L18,32.0000129 L18.0038946,31.7346455 C18.1463712,26.8868243 22.1799562,23.0000129 27.1349694,23.0000129 L27.1349694,23.0000129 L35.254,23 L35.2549421,19.1032572 C35.2549421,18.4939451 35.7488872,18 36.3581993,18 Z" id="Combined-Shape-Copy-3" fill="#56A629" transform="translate(31.293231, 31.500000) scale(-1, 1) translate(-31.293231, -31.500000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

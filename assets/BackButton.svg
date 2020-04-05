@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>assets/BackButton</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="64" height="64" rx="12"></rect>
+        <filter x="-12.5%" y="-12.5%" width="125.0%" height="132.8%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.313532463   0 0 0 0 0.321764974   0 0 0 0 0.366055254  0 0 0 0.348967439 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="6" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter2" in2="SourceAlpha" operator="out" result="shadowBlurOuter2"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.189199521   0 0 0 0 0.197019944   0 0 0 0 0.243942482  0 0 0 0.263576267 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Mockups" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="BackButton">
+            <g transform="translate(8.000000, 8.000000)">
+                <g id="OrangeButton">
+                    <g id="button">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <rect stroke="#FFFFFF" stroke-width="4" stroke-linejoin="square" fill="#FFD3A6" fill-rule="evenodd" x="2" y="2" width="60" height="60" rx="12"></rect>
+                    </g>
+                </g>
+                <g id="Icon/Back" transform="translate(18.000000, 18.000000)" fill="#FF8031">
+                    <path d="M18.3581993,0 C19.0643326,-1.29714576e-16 19.7412676,0.281803407 20.2388047,0.782883181 L26.0056832,6.59082336 C26.7800544,7.37070835 26.7800544,8.62931391 26.0056832,9.4091989 L20.2388047,15.2171391 C19.7412676,15.7182189 19.0643326,16.0000223 18.3581993,16.0000223 C17.7488872,16.0000223 17.2549421,15.5060772 17.2549421,14.8967651 L17.254,11 L9.13496937,11.0000129 L8.95605309,11.0051021 C7.35762909,11.0963484 6.08997958,12.4023277 6.08997958,14.0000129 L6.08997958,14.0000129 L6.08997958,18.0000129 L6.09514864,18.176278 C6.18776346,19.7510843 7.51332871,21.0000129 9.13496937,21.0000129 L9.13496937,21.0000129 L19.8224278,21.0000129 C20.9269973,21.0000129 21.8224278,21.8954434 21.8224278,23.0000129 L21.8224278,23.0000129 L21.8224278,25 C21.8224278,26.1045695 20.9269973,27 19.8224278,27 L19.8224278,27 L9.13496937,27 L8.86562758,26.9961629 C3.94510265,26.8557915 1.98951966e-13,22.8818051 1.98951966e-13,18.0000129 L1.98951966e-13,18.0000129 L1.98951966e-13,14.0000129 L0.00389464918,13.7346455 C0.146371215,8.88682428 4.17995624,5.00001289 9.13496937,5.00001289 L9.13496937,5.00001289 L17.254,5 L17.2549421,1.10325717 C17.2549421,0.49394506 17.7488872,1.11928819e-16 18.3581993,0 Z" id="Combined-Shape-Copy-3" transform="translate(13.293231, 13.500000) scale(-1, 1) translate(-13.293231, -13.500000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

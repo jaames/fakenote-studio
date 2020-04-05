@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="43px" viewBox="0 0 42 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>assets/icons/Play</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Mockups" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PlayControls" transform="translate(-144.000000, -17.000000)" fill="#F2732C">
+            <g id="Group-4">
+                <g id="Group-10" transform="translate(133.000000, 0.000000)">
+                    <g id="Group-2" transform="translate(11.000000, 17.000000)">
+                        <path d="M13.1521739,5 L14.9723773,5 C15.8370189,5 16.6783829,5.28016803 17.3704142,5.79852866 L34.7259129,18.7985287 C36.4940367,20.1229279 36.8537466,22.6299132 35.5293473,24.398037 C35.3011309,24.7027147 35.0305907,24.9732549 34.7259129,25.2014713 L17.3704142,38.2014713 C16.6783829,38.719832 15.8370189,39 14.9723773,39 L13.1521739,39 C11.4112763,39 10,37.5887237 10,35.8478261 L10,8.15217391 C10,6.41127633 11.4112763,5 13.1521739,5 Z" id="Rectangle"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

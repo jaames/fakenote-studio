@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="33px" viewBox="0 0 33 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>assets/icons/ButtonXOutlineDisabled</title>
+    <desc>Created with Sketch.</desc>
+    <g id="assets/icons/ButtonXOutlineDisabled" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IconButton/X">
+            <g id="button-x" transform="translate(3.000000, 3.000000)">
+                <circle id="bg" stroke="#FFFFFF" stroke-width="3" fill="#A8B3BB" fill-rule="nonzero" cx="13.44" cy="13.44" r="14.94"></circle>
+                <path d="M10.1132,6.72 L13.4392,11.376 L16.7652,6.72 L19.7142,6.72 L14.9142,13.44 L19.7142,20.159 L16.7642,20.159 L13.4392,15.504 L10.1142,20.159 L7.1652,20.159 L11.9652,13.44 L7.1652,6.72 L10.1132,6.72 Z" id="Combined-Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

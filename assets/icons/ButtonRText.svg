@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="33px" viewBox="0 0 33 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>assets/icons/ButtonRText</title>
+    <desc>Created with Sketch.</desc>
+    <g id="assets/icons/ButtonRText" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IconButton/R">
+            <g id="button-r" transform="translate(3.000000, 5.000000)">
+                <path d="M7.71428571,0 L26.0357143,0 C26.5682746,0 27,0.468065943 27,1.04545455 L27,21.9545455 C27,22.5319341 26.5682746,23 26.0357143,23 L0.964285714,23 C0.43172542,23 0,22.5319341 0,21.9545455 L0,8.36363636 C0,3.74452755 3.45380336,0 7.71428571,0 Z" id="bg" fill="#FF751E" fill-rule="nonzero" transform="translate(13.500000, 11.500000) scale(-1, 1) translate(-13.500000, -11.500000) "></path>
+                <path d="M14.5689839,5 C16.5553507,5 18.1773723,6.56063243 18.2768089,8.52314906 L18.2816398,8.71428571 C18.2816398,10.4433456 17.1006941,11.8964597 15.5017215,12.3103744 L19,18 L16.2773857,18 L12.8499468,12.4285714 L11.3194431,12.4285714 L11.3204099,18 L9,18 L9,5 L14.5689839,5 Z M13.9487179,7 L11,7 L11,11 L13.9487179,11 C15.0276625,11 15.9120479,10.1878181 15.9938285,9.15629882 L16,9 L15.9938285,8.84370118 C15.9163521,7.86647235 15.1185324,7.08610041 14.1173721,7.006663 L13.9487179,7 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

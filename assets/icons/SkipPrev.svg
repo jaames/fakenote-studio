@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="33px" viewBox="0 0 32 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>assets/icons/SkipPrev</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Mockups" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PlayControls" transform="translate(-67.000000, -22.000000)" fill="#FF751E">
+            <g id="Group-4">
+                <g id="Group-11" transform="translate(0.000000, 14.000000)">
+                    <g id="Combined-Shape-Copy-4" transform="translate(67.000000, 8.000000)">
+                        <path d="M8.19925671,5 C9.16419796,5 10.0966147,5.34881605 10.8246271,5.9821481 L21,14.834 L21,8 C21,6.34314575 22.3431458,5 24,5 C25.6568542,5 27,6.34314575 27,8 L27,25.1481481 C27,26.8050024 25.6568542,28.1481481 24,28.1481481 C22.3431458,28.1481481 21,26.8050024 21,25.1481481 L21,18.314 L10.8246271,27.166 C10.0966147,27.7993321 9.16419796,28.1481481 8.19925671,28.1481481 L7.84782609,28.1481481 C6.82729992,28.1481481 6,27.3208482 6,26.3003221 L6,6.84782609 C6,5.82729992 6.82729992,5 7.84782609,5 L8.19925671,5 Z" id="Combined-Shape-Copy-2" transform="translate(16.500000, 16.574074) scale(-1, 1) translate(-16.500000, -16.574074) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

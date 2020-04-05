@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="33px" viewBox="0 0 33 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>assets/icons/ButtonBText</title>
+    <desc>Created with Sketch.</desc>
+    <g id="assets/icons/ButtonBText" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IconButton/B">
+            <g id="button-b" transform="translate(3.000000, 3.000000)">
+                <circle id="bg" fill="#FF751E" fill-rule="nonzero" cx="13.44" cy="13.44" r="13.44"></circle>
+                <path d="M14.4,6.72 C16.4544993,6.72 18.1321562,8.33345383 18.2350034,10.3623941 L18.24,10.56 C18.24,11.5007118 17.9017345,12.3624174 17.3402032,13.0301172 C18.4018699,13.669586 19.1284237,14.8089287 19.1950034,16.1223941 L19.2,16.32 C19.2,18.4407734 17.4807734,20.16 15.36,20.16 L8.64,20.16 L8.64,6.72 L14.4,6.72 Z M14.76,14.4 L11.04,14.4 L11.04,18.24 L14.76,18.24 C15.8203867,18.24 16.68,17.3803867 16.68,16.32 L16.68,16.32 L16.6742234,16.1699531 C16.5976768,15.1796946 15.7698921,14.4 14.76,14.4 L14.76,14.4 Z M13.8,8.64 L11.04,8.64 L11.04,12.48 L13.8,12.48 C14.8603867,12.48 15.72,11.6203867 15.72,10.56 L15.72,10.56 L15.7142234,10.4099531 C15.6376768,9.41969459 14.8098921,8.64 13.8,8.64 L13.8,8.64 Z" id="Combined-Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

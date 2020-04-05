@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="64px" viewBox="0 0 80 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>assets/CanvasLayerButtonB_Active</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M20.6379584,11 L59.3620416,11 C63.8715522,11 67.8231491,14.0182133 69.0096798,18.3688259 L75.5551343,42.3688259 C77.0082917,47.6970694 73.8669136,53.1944809 68.5386702,54.6476382 C67.6811689,54.8815022 66.796316,55 65.9074961,55 L14.0925039,55 C8.56965637,55 4.09250386,50.5228475 4.09250386,45 C4.09250386,44.1111801 4.21100167,43.2263272 4.44486565,42.3688259 L10.9903202,18.3688259 C12.1768509,14.0182133 16.1284478,11 20.6379584,11 Z" id="path-1"></path>
+        <filter x="-6.3%" y="-18.2%" width="112.6%" height="147.7%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.313532463   0 0 0 0 0.321764974   0 0 0 0 0.366055254  0 0 0 0.348967439 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="6" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter2" in2="SourceAlpha" operator="out" result="shadowBlurOuter2"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.189199521   0 0 0 0 0.197019944   0 0 0 0 0.243942482  0 0 0 0.263576267 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Mockups" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="B">
+            <g id="Layer/Active">
+                <g id="Rectangle-Copy-2">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <path stroke="#FFFFFF" stroke-width="4" d="M59.3620416,13 L20.6379584,13 C18.8341542,13 17.1419327,13.6036427 15.7820092,14.6423466 C14.4220857,15.6810505 13.3944601,17.1548157 12.9198478,18.8950608 L6.37439329,42.8950608 C6.18730211,43.5810618 6.09250386,44.2889441 6.09250386,45 C6.09250386,47.209139 6.98793436,49.209139 8.43564962,50.6568542 C9.88336487,52.1045695 11.8833649,53 14.0925039,53 L65.9074961,53 C66.6185521,53 67.3264344,52.9052018 68.0124354,52.7181106 C70.1437328,52.1368476 71.8376571,50.7467339 72.8534413,48.9691115 C73.8692255,47.1914891 74.2068696,45.0263581 73.6256067,42.8950608 L67.0801522,18.8950608 C66.6055399,17.1548157 65.5779143,15.6810505 64.2179908,14.6423466 C62.8580673,13.6036427 61.1658458,13 59.3620416,13 Z" stroke-linejoin="square" fill="#FFD3A6" fill-rule="evenodd"></path>
+                </g>
+                <path d="M8,45 C8,46.3807119 9.11928813,47.5 10.5,47.5 L69.5,47.5 C70.8807119,47.5 72,46.3807119 72,45 L72,45 L72,45 C72,48.3137085 69.3137085,51 66,51 L14,51 C10.6862915,51 8,48.3137085 8,45 L8,45 L8,45 Z" id="Rectangle" fill="#F2732C" fill-rule="evenodd"></path>
+                <g id="text" stroke-width="1" fill-rule="evenodd" transform="translate(21.000000, 6.000000)" fill="#F2732C" font-family="nintendoPSeurat-B003, nintendoP_Seurat-B_003" font-size="32" font-weight="bold">
+                    <text id="A" stroke="#FFFFFF" stroke-width="12">
+                        <tspan x="6.584" y="28">B</tspan>
+                    </text>
+                    <text id="A">
+                        <tspan x="6.584" y="28">B</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

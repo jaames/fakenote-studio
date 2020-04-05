@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>assets/CanvasMenuButton_Close</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="64" height="64" rx="12"></rect>
+        <filter x="-12.5%" y="-12.5%" width="125.0%" height="132.8%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.313532463   0 0 0 0 0.321764974   0 0 0 0 0.366055254  0 0 0 0.348967439 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="6" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter2" in2="SourceAlpha" operator="out" result="shadowBlurOuter2"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.189199521   0 0 0 0 0.197019944   0 0 0 0 0.243942482  0 0 0 0.263576267 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Mockups" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="CanvasMenuButton/CloseMenu">
+            <g id="Group" transform="translate(0.000000, 8.000000)">
+                <g id="OrangeButton" transform="translate(8.000000, 0.000000)">
+                    <g id="button">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <rect stroke="#FFFFFF" stroke-width="4" stroke-linejoin="square" fill="#FFD3A6" fill-rule="evenodd" x="2" y="2" width="60" height="60" rx="12"></rect>
+                    </g>
+                </g>
+                <line x1="29" y1="21" x2="51" y2="43" id="Path-24" stroke="#F2732C" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"></line>
+                <line x1="29" y1="21" x2="51" y2="43" id="Path-24-Copy" stroke="#F2732C" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" transform="translate(40.000000, 32.000000) scale(-1, 1) translate(-40.000000, -32.000000) "></line>
+            </g>
+        </g>
+    </g>
+</svg>

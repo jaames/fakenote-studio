@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="33px" viewBox="0 0 33 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>assets/icons/ButtonZLGalleryText</title>
+    <desc>Created with Sketch.</desc>
+    <g id="assets/icons/ButtonZLGalleryText" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IconButton/ZL" transform="translate(1.000000, 1.000000)">
+            <g id="button-zl" transform="translate(3.000000, 3.000000)">
+                <path d="M9.6,0 L19.2,0 C22.3811602,0 24.96,2.57883984 24.96,5.76 L24.96,22.08 C24.96,22.6101934 24.5301934,23.04 24,23.04 L0.96,23.04 C0.42980664,23.04 0,22.6101934 0,22.08 L0,9.6 C0,4.2980664 4.2980664,0 9.6,0 Z" id="bg" fill="#56A629" fill-rule="nonzero"></path>
+                <path d="M16.32,7.68 L16.32,15.36 L21.12,15.36 L21.12,17.28 L14.4,17.28 L14.4,7.68 L16.32,7.68 Z M12.48,5.76 L12.48,8.2566 L6.79728,15.36 L12.48,15.36 L12.48,17.28 L4.8,17.28 L4.8,14.7834 L10.4826001,7.68 L4.8,7.68 L4.8,5.76 L12.48,5.76 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

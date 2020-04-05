@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="33px" viewBox="0 0 33 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>assets/icons/ButtonPlusOutlineDisabled</title>
+    <desc>Created with Sketch.</desc>
+    <g id="assets/icons/ButtonPlusOutlineDisabled" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IconButton/Plus">
+            <g id="button-plus" transform="translate(3.000000, 3.000000)">
+                <circle id="bg" stroke="#FFFFFF" stroke-width="3" fill="#A8B3BB" fill-rule="nonzero" cx="13.44" cy="13.44" r="14.94"></circle>
+                <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="12.24" y="6.72" width="2.4" height="13.44"></rect>
+                <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="6.72" y="12.24" width="13.44" height="2.4"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>assets/FolderButton_New</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0,10 L7.21240955,1.98621161 C8.3502644,0.721928449 9.97125539,3.12453758e-16 11.6721744,0 L24.5147186,0 C26.1060176,3.26039681e-15 27.632141,0.632141042 28.7573593,1.75735931 L35,8 L35,8 L61,8 C64.3137085,8 67,10.6862915 67,14 L67,57 C67,60.3137085 64.3137085,63 61,63 L6,63 C2.6862915,63 4.05812251e-16,60.3137085 0,57 L0,10 L0,10 Z" id="path-1"></path>
+        <filter x="-11.9%" y="-12.7%" width="123.9%" height="133.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.313532463   0 0 0 0 0.321764974   0 0 0 0 0.366055254  0 0 0 0.348967439 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="6" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter2" in2="SourceAlpha" operator="out" result="shadowBlurOuter2"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.189199521   0 0 0 0 0.197019944   0 0 0 0 0.243942482  0 0 0 0.263576267 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Mockups" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Folder/CreateNew">
+            <g id="Folder-Copy" transform="translate(7.000000, 9.000000)">
+                <g id="bg">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <path stroke="#FFFFFF" stroke-width="4" d="M24.5147186,2 L11.6721744,2 C10.5382284,2 9.45756774,2.48128563 8.69899784,3.32414107 L2,10.767472 L2,57 C2,58.1045695 2.44771525,59.1045695 3.17157288,59.8284271 C3.8954305,60.5522847 4.8954305,61 6,61 L61,61 C62.1045695,61 63.1045695,60.5522847 63.8284271,59.8284271 C64.5522847,59.1045695 65,58.1045695 65,57 L65,14 C65,12.8954305 64.5522847,11.8954305 63.8284271,11.1715729 C63.1045695,10.4477153 62.1045695,10 61,10 L34.1715729,10 L27.3431458,3.17157288 C26.5930002,2.42142736 25.5755846,2 24.5147186,2 Z" stroke-linejoin="square" fill="#E2E6F2" fill-rule="evenodd"></path>
+                </g>
+                <path d="M19,4 L25,4 L33,12 L28,12 L20.5857864,4.58578644 C20.2107137,4.21071368 19.7020059,4 19.1715729,4 L19,4 L19,4 Z" id="Rectangle" fill="#C4CADB"></path>
+                <path d="M4,57 L63,57 C63,58.1045695 62.1045695,59 61,59 L6,59 C4.8954305,59 4,58.1045695 4,57 L4,57 L4,57 Z" id="Rectangle" fill="#C4CADB"></path>
+                <path d="M33,24 C34.0543618,24 34.9181651,24.8158778 34.9945143,25.8507377 L35,26 L35,32 L41,32 C42.1045695,32 43,32.8954305 43,34 C43,35.0543618 42.1841222,35.9181651 41.1492623,35.9945143 L41,36 L35,36 L35,42 C35,43.1045695 34.1045695,44 33,44 C31.9456382,44 31.0818349,43.1841222 31.0054857,42.1492623 L31,42 L31,36 L25,36 C23.8954305,36 23,35.1045695 23,34 C23,32.9456382 23.8158778,32.0818349 24.8507377,32.0054857 L25,32 L31,32 L31,26 C31,24.8954305 31.8954305,24 33,24 Z" id="Combined-Shape" fill="#1E1E1E" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>
