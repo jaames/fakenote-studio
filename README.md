@@ -6,7 +6,7 @@
 
 Flipnote Studio is a free animation app available on the Nintendo DSi and 3DS. As part of an elaborate annual April Fools prank in a few small Flipnote-centric communities on Discord, we decided to fake some "leaked" screenshots of an new version of the app for the Nintendo Switch. 
 
-Unbeknownst to us, somebody in the community ended up going to some press outlets with the screenshots. In typical gaming journalism fashion the setchy source was ignored and the "leaks" ended up going semi-viral. Once we revealed ourselves as the source of the fake screenshots, there was a significant amount of backlash from disappointed fans, with some going so far as to call for us to be doxxed or murdered. (yikes)
+Unbeknownst to us, somebody in the community ended up going to some press outlets with the screenshots. In typical gaming journalism fashion the sketchy source was ignored and the "leaks" ended up going semi-viral. Once we revealed ourselves as the source of the fake screenshots, there was a significant amount of backlash from disappointed fans, with a select few going so far as to call for us to be doxxed or murdered (yikes)
 
 You can catch the whole story [on IGN](https://uk.ign.com/articles/the-april-fools-switch-joke-that-went-too-far).
 
