@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1280px" height="330px" viewBox="0 0 1280 330" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>assets/FrameBg</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="20" y="32" width="1280" height="348"></rect>
+        <filter x="-1.6%" y="-6.9%" width="103.1%" height="111.5%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="-4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="6" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.188235294   0 0 0 0 0.196078431   0 0 0 0 0.243137255  0 0 0 0.408571897 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Mockups" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="screens/jp/Sequence" transform="translate(0.000000, -390.000000)">
+            <g id="FrameBg" transform="translate(-157.000000, 390.000000)">
+                <g id="Group" transform="translate(137.000000, 0.000000)">
+                    <g id="framebg">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#0F1011" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <g id="FramePane" transform="translate(0.000000, 46.000000)" fill="#FFFFFF">
+                        <g id="FrameholesBottom" transform="translate(0.000000, 162.000000)">
+                            <rect id="Rectangle" x="56" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-96" x="28" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-7" x="84" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-9" x="112" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-12" x="140" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-14" x="168" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-16" x="196" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-18" x="224" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-20" x="252" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-22" x="280" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-24" x="308" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-26" x="336" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-28" x="364" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-30" x="392" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-32" x="420" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-34" x="448" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-36" x="476" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-38" x="504" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-40" x="532" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-42" x="560" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-44" x="588" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-46" x="616" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-48" x="644" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-50" x="672" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-52" x="700" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-54" x="728" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-56" x="756" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-58" x="784" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-60" x="812" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-62" x="840" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-64" x="868" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-66" x="896" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-68" x="924" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-70" x="952" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-72" x="980" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-74" x="1008" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-76" x="1036" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-78" x="1064" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-80" x="1092" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-82" x="1120" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-84" x="1148" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-86" x="1176" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-88" x="1204" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-90" x="1232" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-92" x="1260" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-94" x="1288" y="0" width="14" height="14" rx="2"></rect>
+                        </g>
+                        <g id="FrameholesTop">
+                            <rect id="Rectangle" x="56" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-96" x="28" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-7" x="84" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-9" x="112" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-12" x="140" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-14" x="168" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-16" x="196" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-18" x="224" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-20" x="252" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-22" x="280" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-24" x="308" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-26" x="336" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-28" x="364" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-30" x="392" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-32" x="420" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-34" x="448" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-36" x="476" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-38" x="504" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-40" x="532" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-42" x="560" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-44" x="588" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-46" x="616" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-48" x="644" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-50" x="672" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-52" x="700" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-54" x="728" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-56" x="756" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-58" x="784" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-60" x="812" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-62" x="840" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-64" x="868" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-66" x="896" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-68" x="924" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-70" x="952" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-72" x="980" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-74" x="1008" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-76" x="1036" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-78" x="1064" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-80" x="1092" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-82" x="1120" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-84" x="1148" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-86" x="1176" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-88" x="1204" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-90" x="1232" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-92" x="1260" y="0" width="14" height="14" rx="2"></rect>
+                            <rect id="Rectangle-Copy-94" x="1288" y="0" width="14" height="14" rx="2"></rect>
+                        </g>
+                    </g>
+                </g>
+                <rect id="Rectangle-Copy-3" fill="#FFFFFF" x="0" y="74" width="214" height="120" rx="8"></rect>
+                <rect id="Rectangle" fill="#FFFFFF" x="230" y="74" width="214" height="120" rx="8"></rect>
+                <rect id="Rectangle-Copy-4" fill="#FFFFFF" x="460" y="74" width="214" height="120" rx="8"></rect>
+                <rect id="Rectangle-Copy-6" fill="#FFFFFF" x="690" y="74" width="214" height="120" rx="8"></rect>
+                <rect id="Rectangle-Copy-11" fill="#FFFFFF" x="920" y="74" width="214" height="120" rx="8"></rect>
+                <rect id="Rectangle-Copy-13" fill="#FFFFFF" x="1150" y="74" width="214" height="120" rx="8"></rect>
+                <rect id="Rectangle-Copy-37" fill="#FFFFFF" x="1380" y="74" width="214" height="120" rx="8"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

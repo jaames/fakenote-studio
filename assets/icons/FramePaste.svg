@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>assets/icons/FramePaste</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M18,0 C20.209139,-4.05812251e-16 22,1.790861 22,4 L22,18 C22,20.209139 20.209139,22 18,22 L4,22 C1.790861,22 2.705415e-16,20.209139 0,18 L0,13 L12,13 C12.5128358,13 12.9355072,12.6139598 12.9932723,12.1166211 L13,12 L13,0 L18,0 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="22" height="22" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Mockups" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon/Paste" stroke="#FF751E">
+            <use id="Combined-Shape" mask="url(#mask-2)" stroke-width="6" stroke-dasharray="4,2" transform="translate(11.000000, 11.000000) scale(-1, -1) translate(-11.000000, -11.000000) " xlink:href="#path-1"></use>
+            <path d="M24,7.5 L10,7.5 C9.30964406,7.5 8.68464406,7.77982203 8.23223305,8.23223305 C7.77982203,8.68464406 7.5,9.30964406 7.5,10 L7.5,24 C7.5,24.6903559 7.77982203,25.3153559 8.23223305,25.767767 C8.68464406,26.220178 9.30964406,26.5 10,26.5 L25,26.5 C25.4142136,26.5 25.7892136,26.3321068 26.0606602,26.0606602 C26.3321068,25.7892136 26.5,25.4142136 26.5,25 L26.5,10 C26.5,9.30964406 26.220178,8.68464406 25.767767,8.23223305 C25.3153559,7.77982203 24.6903559,7.5 24,7.5 Z" id="Rectangle" stroke-width="3"></path>
+        </g>
+    </g>
+</svg>

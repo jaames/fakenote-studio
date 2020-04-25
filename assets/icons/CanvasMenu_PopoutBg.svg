@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="251px" height="64px" viewBox="0 0 251 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>assets/icons/CanvasMenu_PopoutBg</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M22,0 L239,0 C245.627417,-1.21743675e-15 251,5.372583 251,12 L251,52 C251,58.627417 245.627417,64 239,64 L22,64 C15.372583,64 10,58.627417 10,52 L10,42 L10,42 L1.41421356,33.4142136 C0.633164979,32.633165 0.633164979,31.366835 1.41421356,30.5857864 L10,22 L10,22 L10,12 C10,5.372583 15.372583,1.21743675e-15 22,0 Z" id="path-1"></path>
+        <filter x="-2.9%" y="-12.5%" width="106.0%" height="132.8%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.313532463   0 0 0 0 0.321764974   0 0 0 0 0.366055254  0 0 0 0.348967439 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="6" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter2" in2="SourceAlpha" operator="out" result="shadowBlurOuter2"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.189199521   0 0 0 0 0.197019944   0 0 0 0 0.243942482  0 0 0 0.263576267 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Mockups" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="screens/jp/Sequence" transform="translate(-100.000000, -636.000000)">
+            <g id="MenuIcons" transform="translate(100.000000, 636.000000)">
+                <g id="Bg">
+                    <g id="bg">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <path stroke="#FFFFFF" stroke-width="4" d="M239,2 L22,2 C19.2385763,2 16.7385763,3.11928813 14.9289322,4.92893219 C13.1192881,6.73857625 12,9.23857625 12,12 L12,22.8284271 L2.82842712,32 L12,41.1715729 L12,52 C12,54.7614237 13.1192881,57.2614237 14.9289322,59.0710678 C16.7385763,60.8807119 19.2385763,62 22,62 L239,62 C241.761424,62 244.261424,60.8807119 246.071068,59.0710678 C247.880712,57.2614237 249,54.7614237 249,52 L249,12 C249,9.23857625 247.880712,6.73857625 246.071068,4.92893219 C244.261424,3.11928813 241.761424,2 239,2 Z" stroke-linejoin="square" fill="#FFD3A6" fill-rule="evenodd"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

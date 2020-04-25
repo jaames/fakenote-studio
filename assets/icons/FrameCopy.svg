@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>assets/icons/FrameCopy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M24,6 C26.209139,6 28,7.790861 28,10 L28,24 C28,26.209139 26.209139,28 24,28 L10,28 C7.790861,28 6,26.209139 6,24 L6,19 L18,19 C18.5128358,19 18.9355072,18.6139598 18.9932723,18.1166211 L19,18 L19,6 L24,6 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="22" height="22" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Mockups" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon/Copy" stroke="#FF751E">
+            <path d="M18,1.5 L4,1.5 C3.30964406,1.5 2.68464406,1.77982203 2.23223305,2.23223305 C1.77982203,2.68464406 1.5,3.30964406 1.5,4 L1.5,18 C1.5,18.6903559 1.77982203,19.3153559 2.23223305,19.767767 C2.68464406,20.220178 3.30964406,20.5 4,20.5 L19,20.5 C19.4142136,20.5 19.7892136,20.3321068 20.0606602,20.0606602 C20.3321068,19.7892136 20.5,19.4142136 20.5,19 L20.5,4 C20.5,3.30964406 20.220178,2.68464406 19.767767,2.23223305 C19.3153559,1.77982203 18.6903559,1.5 18,1.5 Z" id="Rectangle" stroke-width="3"></path>
+            <use id="Combined-Shape" mask="url(#mask-2)" stroke-width="6" stroke-dasharray="4,2" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>
