@@ -1,6 +1,5 @@
 # Fakenote Studio
-
-(WIP) Design files, assets and notes from the Flipnote Switch mockup that was part of our community's 2020 April Fools prank.
+Design files, assets and notes from the Flipnote Switch mockup that was part of our community's 2020 April Fools prank.
 
 ### Background
 
